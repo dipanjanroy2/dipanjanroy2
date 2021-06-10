@@ -1,22 +1,22 @@
 ## Hello friend,I'm Dipanjan 👋
 
-Hi, I'm [Dipanjan Roy] a passionate self-taught Programmer.I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
- <img align="right" alt="GIF" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" width="500" height="320" />
+Hi, I'm Dipanjan Roy a self-taught Programmer,**Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building engaging and stunning products that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for surprising products.
 
+ <img align="right" alt="GIF" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" width="500" height="320" />
 
 ## My interest❤️ 
 
-**Robotics, Blockchain and AI**☁️
+**Robotics, Blockchain and AI**
 
-## ⚡️ A Few Quick Facts
+## ⚡️ Quick Facts
 
-- 🔭 I’m currently working on RObotic(ROS) Project<img src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" width="30">   
+- 🔭 I’m currently working on RObotic(ROS) Project <img src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" width="30">   
 - 🌱 I’m currently learning React <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="15"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi,Arduino Projects
-  - 🤖 ROS (Robotic operating System) projects
+  - Machine Learning & Data Science
+  - Computer Vision
+  - DIY Raspberry Pi,Arduino Projects
+  - ROS (Robotic operating System) projects
   - Blockchain 
 <br>
 
@@ -51,4 +51,3 @@ if __name__ == '__main__':
   <img align="left" alt="Dipanjan Roy" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-
