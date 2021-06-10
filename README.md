@@ -41,7 +41,7 @@ class Dipanjan:
         return self.name
 
 if __name__ == '__main__':
-    me = dipanjan()
+    me = Dipanjan()
 
 ```
 </br>
