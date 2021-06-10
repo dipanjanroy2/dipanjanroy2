@@ -10,7 +10,7 @@ Hi, I'm [Dipanjan Roy] a passionate self-taught Programmer.I'm a **Tech Enthusia
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on RObotic(ROS)Project
+- 🔭 I’m currently working on RObotic(ROS) Project
 - 🌱 I’m currently learning React <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="30"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
@@ -40,7 +40,6 @@ class Dipanjan:
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
     me = dipanjan()
 
@@ -48,7 +47,7 @@ if __name__ == '__main__':
 </br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
-<a href="linkedin.com/in/dipanjan-roy369">
+<a href="https://www.linkedin.com/in/dipanjan-roy369/">
   <img align="left" alt="Dipanjan Roy" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
