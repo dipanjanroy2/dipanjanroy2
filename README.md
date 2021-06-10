@@ -1,9 +1,8 @@
-## Hello friend,I'm Dipanjan 👋
+## Hello friend 👋
 
-Hi, I'm Dipanjan Roy a self-taught Programmer,**Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building engaging and stunning products that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for surprising products.
+Hi, I'm Dipanjan Roy a *self-taught* **Programmer**,**Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building engaging and stunning products that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for surprising products.
 
  <img align="right" alt="GIF" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" width="500" height="320" />
-
 ## My interest❤️ 
 
 **Robotics, Blockchain and AI**
