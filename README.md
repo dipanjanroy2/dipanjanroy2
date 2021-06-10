@@ -12,8 +12,6 @@ Hi, I'm [Dipanjan Roy] a passionate self-taught Programmer.I'm a **Tech Enthusia
 
 - 🔭 I’m currently working on RObotic(ROS)Project
 - 🌱 I’m currently learning React <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="30"> 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
