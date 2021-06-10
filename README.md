@@ -1,8 +1,10 @@
 ### Hello friend,I'm Dipanjan 👋
 
  <img align="right" alt="GIF" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" width="500" height="320" />
+Hi, I'm [Dipanjan Roy] a passionate self-taught Programmer from India. I take great care in the experience, architecture, and code quality of the things I build.. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
 
-## Hi, I'm [Dipanjan Roy] a passionate self-taught Programmer from India. I take great care in the experience, architecture, and code quality of the things I build.. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
+
+
 
 ```python
 class Dipanjan:
