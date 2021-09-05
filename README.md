@@ -6,7 +6,7 @@ Hi, I'm Dipanjan Roy a *self-taught* **Programmer**,**Tech Enthusiast 💻 😃*
  
 ## My interest❤️ 
 
-**Robotics, Blockchain and AI**
+**Robotics, Full Stack Development and AI**
 
 ## ⚡️ Quick Facts
 
