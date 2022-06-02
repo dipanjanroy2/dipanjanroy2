@@ -1,6 +1,6 @@
 ## Hello friend 👋
 
-Hi, I'm Dipanjan Roy a *self-taught* **Programmer**,**Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building engaging and stunning products that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for surprising products.
+Hi, I'm Dipanjan Roy a *self-taught* **Programmer**,**Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building engaging and stunning products that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for surprising products.I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness. 
 
  <img align="right" alt="GIF" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" width="500" height="320" />
  
@@ -11,7 +11,7 @@ Hi, I'm Dipanjan Roy a *self-taught* **Programmer**,**Tech Enthusiast 💻 😃*
 ## ⚡️ Quick Facts
 
 - 🔭 I’m currently working on RObotic(ROS) Project <img src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" width="30">   
-- 🌱 I’m currently learning React <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="15"> 
+- 🌱 I’m currently learning Cloud Technology <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="15"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - Machine Learning & Data Science
   - Computer Vision
